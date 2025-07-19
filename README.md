@@ -12,9 +12,9 @@
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 - OpenWeatherMap API
-- 
+
 ## Getting Started
 
 To run this project locally:
