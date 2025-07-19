@@ -7,7 +7,7 @@
 - Search by city name
 - Dynamic weather icons based on conditions
 - Mobile responsive design
-- 
+  
 ## Built With
 
 - HTML5
